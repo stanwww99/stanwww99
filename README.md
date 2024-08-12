@@ -14,4 +14,4 @@ Hello, world
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 -->
-Chek
+Check it out.
