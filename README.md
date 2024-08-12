@@ -13,6 +13,7 @@ Hello, world
 - 📫 How to reach me: stanwww@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
+-  Dmoj account: https://dmoj.ca/user/stanwww
 -->
 Check out this and my bio
 
