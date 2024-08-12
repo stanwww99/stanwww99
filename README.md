@@ -10,8 +10,9 @@ Hello, world
 - 👯 I’m looking to collaborate on school projects
 - 🤔 I’m looking for help with how to improve on my school projects
 - 💬 Ask me about easy questions.
-- 📫 How to reach me:stanwww@outlook.com
+- 📫 How to reach me: stanwww@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 -->
-Check it out.
+Check out this and my bio
+
